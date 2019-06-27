@@ -16,4 +16,8 @@ public class MainActivity extends AppCompatActivity {
     private void method1(){
         //第一次修改
     }
+
+    private void method2(){
+        //第二次修改
+    }
 }
